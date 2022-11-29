@@ -1,0 +1,6 @@
+C:\Proyecto Desarrollo de sistemas 2\ReporteRangoFechas22\DataAccess\bin\Debug\DataAccess.dll
+C:\Proyecto Desarrollo de sistemas 2\ReporteRangoFechas22\DataAccess\bin\Debug\DataAccess.pdb
+C:\Proyecto Desarrollo de sistemas 2\ReporteRangoFechas22\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+C:\Proyecto Desarrollo de sistemas 2\ReporteRangoFechas22\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Proyecto Desarrollo de sistemas 2\ReporteRangoFechas22\DataAccess\obj\Debug\DataAccess.dll
+C:\Proyecto Desarrollo de sistemas 2\ReporteRangoFechas22\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,9 @@
+C:\Proyecto Desarrollo de sistemas 2\ReporteRangoFechas22\Domain\bin\Debug\Domain.dll
+C:\Proyecto Desarrollo de sistemas 2\ReporteRangoFechas22\Domain\bin\Debug\Domain.pdb
+C:\Proyecto Desarrollo de sistemas 2\ReporteRangoFechas22\Domain\bin\Debug\DataAccess.dll
+C:\Proyecto Desarrollo de sistemas 2\ReporteRangoFechas22\Domain\bin\Debug\DataAccess.pdb
+C:\Proyecto Desarrollo de sistemas 2\ReporteRangoFechas22\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Proyecto Desarrollo de sistemas 2\ReporteRangoFechas22\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Proyecto Desarrollo de sistemas 2\ReporteRangoFechas22\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Proyecto Desarrollo de sistemas 2\ReporteRangoFechas22\Domain\obj\Debug\Domain.dll
+C:\Proyecto Desarrollo de sistemas 2\ReporteRangoFechas22\Domain\obj\Debug\Domain.pdb
